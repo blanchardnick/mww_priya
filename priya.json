@@ -3,7 +3,7 @@
   "wake_word": "Hey Priya",
   "author": "Nick Blanchard",
   "website": "",
-  "model": "./hey_preeya.tflite",
+  "model": "https://github.com/blanchardnick/mww_priya/raw/refs/heads/main/hey_preeya.tflite",
   "version": 1,
   "micro": {
     "probability_cutoff": 0.5,
