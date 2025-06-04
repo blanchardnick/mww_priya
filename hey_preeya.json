@@ -1,6 +1,6 @@
 {
   "type": "micro",
-  "wake_word": "Hey Priya",
+  "wake_word": "Hey Preeya",
   "author": "Kevin Ahrendt",
   "website": "https://www.kevinahrendt.com/",
   "model": "hey_preeya.tflite",
